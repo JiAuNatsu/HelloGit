@@ -1,16 +1,18 @@
-GitHub�̗��K�p���|�W�g��
-�������������ł����H
+GitHubの練習用リポジトリ
+文字化け解決できた？
 
-�������������ł��Ă�I
+文字化け解決できてる！
 abcdefg
-�A���t�@�x�b�g���G���[�Ȃ��H
+アルファベットもエラーなし？
 
-PowerShell�̕����������������ۂ�
+PowerShellの文字化けも治ったぽい
 
-branch�e�X�g1
+branchテスト1
 
-�u�����`�ƃ}�X�^�[�̍�ƃc���[�ɂ��Ē��ׂ邽�߂̃R�~�b�g
+ブランチとマスターの作業ツリーについて調べるためのコミット
 
 
-�v�����N�G�X�g�̃e�X�g
+プルリクエストのテスト
 pullriq
+
+githubから直接編集テスト
